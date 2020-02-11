@@ -1,0 +1,2 @@
+# python
+JUST SOME BASIC PYTHON CODES
